@@ -1,6 +1,13 @@
 
 
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SamedShukurov/count.svg" />
+</p>
+
 
  
 <h1 align="center">Hi 👋, I'm Samed</h1>
