@@ -20,7 +20,7 @@
 <p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **react,sass, python**
-- My website for joking in Azerbaijan<a aligh="left" href="https://https://zarafatlar-by-samed.netlify.app/" target="_blank" rel="noreferrer noopener"> https://https://zarafatlar-by-samed.netlify.app/</a>
+- My website for joking in Azerbaijan<a aligh="left" href="https://zarafatlar-by-samed.netlify.app/" target="_blank" rel="noreferrer noopener"> https://https://zarafatlar-by-samed.netlify.app/</a>
 
 - 📫 How to reach me **samedzauroglu2007@gmail.com**
 
