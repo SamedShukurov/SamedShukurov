@@ -20,15 +20,13 @@
 <p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **react,sass, python**
-- My website for joking in Azerbaijan<a aligh="left" href="https://zarafatlar-by-samed.netlify.app/" target="_blank" rel="noreferrer noopener"> https://https://zarafatlar-by-samed.netlify.app/</a>
+- My portfolio <a aligh="left" href="https://portfolio-samed-shukurov.vercel.app/" target="_blank" rel="noreferrer noopener">https://portfolio-samed-shukurov.vercel.app/</a>
 
 - 📫 How to reach me **samedzauroglu2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ismayil-goblok-semed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ismayil-goblok-semed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/s%C9%99m%C9%99d-%C5%9F%C3%BCk%C3%BCrov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%c9%99m%c9%99d-%c5%9f%c3%bck%c3%bcrov-962786263/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shel_oglan__belike/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shel_oglan__belike/" height="30" width="40" /></a>
+<a href="in/samed-shukurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/samed-shukurov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucchcfi2hxpv4xdvjj8s6f-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucchcfi2hxpv4xdvjj8s6f-g" height="30" width="40" /></a>
 </p>
 
